@@ -1,0 +1,6 @@
+[submodule "lib/mavlink"]
+	path = lib/mavlink
+	url = https://github.com/mavlink/mavlink
+[submodule "lib/RenogyChargeController"]
+	path = lib/RenogyChargeController
+	url = https://github.com/erieROV/RenogyChargeController
